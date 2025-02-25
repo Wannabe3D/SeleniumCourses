@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+.gitignore
+.idea
+# Virtual environment
+venv/
+.env/
+.pytest_cache
+# Byte-compiled / optimized / DLL files
+!Module3/__pycache__/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
